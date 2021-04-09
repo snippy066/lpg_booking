@@ -1,0 +1,74 @@
+wordpress is CMS(content management system) for websites. joomla drupal is also famous cms, is begenning wordpress only for
+blogging but at the time passes with the help of plugins we can create any website through wordpress. specially ecommerce website.based on php. in web 60% websites on wordpress. wordpress.com(online work) wordpress.org(offline)..
+plugins are software tools which provide some specific features to a website.
+
+
+Settings
+
+Required Themes and Plugins
+--------------------------------------------------------
+OceanWP Theme
+Ocean Product Sharing
+Ocean Custom Sidebar
+Ocean Social Sharing
+Ocean Stick Anything
+Contact Form 7
+WooCommerce
+WooCommerce Variation Swatches
+WooCommerce Wishlist
+Custom Sidebars
+Elementor Addons & Templates – Sizzify Lite
+Essential Addons for Elementor
+Premium Addons for Elementor
+
+Extra
+(WooCommerce Additional Variation Images Gallery)
+(WooCommerce Blocks 1.3.1)
+
+woocommerce shortcodes
+woocommerce settings
+Product Entry
+Home page setup
+Home page design
+
+
+
+Footwear
+Sports Shoes
+Casual Shoes
+Formal Shoes
+Sandals & Floaters
+Loafers
+
+clothing
+T-Shirts
+Shirts
+Kurtas
+Suit & Blazers
+
+grooming
+Deodorants
+Perfumes
+Beard Care
+Shaving
+
+watches
+Fastrack
+Casio
+Titan
+Fossil
+Rado
+
+Accessories
+sports wear
+Fitness
+
+
+
+
+
+
+
+
+
+
